@@ -1,1 +1,11 @@
-
+<?xml version="1.0"?>
+<bag_info>
+  <id>id1</id>
+  <title>brief_description_of_the_bug</title>
+  <steps_for_represen>1 2 3 </steps_for_represen>
+  <expected_result>E_R</expected_result>
+  <actual_result>A_R</actual_result>
+  <enviraments>EN</enviraments>
+  <priority>PR</priority>
+  <severity>SEV</severity>
+</bag_info>
